@@ -1325,7 +1325,7 @@ LOBSTER_FACTS = (
     'Lobsters have poor eyesight, but have highly developed senses of smell and taste.',
     'Lobsters taste with their legs and chew with their stomachs.',
     'Lobsters keep growing forever. They do not get weaker or lose their ability to reproduce, and will keep on molting and growing.',
-    )
+    'Lobsters "smell" their food by using four small antennae on the front of their heads and tiny sensing hairs that cover their bodies.'
 
 MEERKAT_FACTS = (
     'Meerkats can spot an eagle in flight more than a thousand feet away.',
